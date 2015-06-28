@@ -11,3 +11,9 @@ Hello again.
 Te ir garš apraksts par šo projektu. Te ir papildinājums aprakstam.
 
 Šis ir papildinājums nr3.
+
+Vēl nepieciešams izdarīt
+
+* Pirmo lietu
+* Otro lietu
+* Trešo lietu
