@@ -9,3 +9,5 @@ Hello again.
 ### 3. līmeņa virsraksts
 
 Te ir garš apraksts par šo projektu. Te ir papildinājums aprakstam.
+
+Šis ir papildinājums nr3.
